@@ -163,3 +163,7 @@ footer {
   .statement-band h2 { font-size: 32px; }
   .section, .roster-section, .dark-section, .offer-section, .brands-section, .story, .contact-section, .request-band, .statement-band { padding-left: 24px; padding-right: 24px; }
 }
+.creator-kit { display: inline-block; margin-top: 14px; font-size: 13px; font-weight: 600; color: var(--gold); }
+.roster-grid .creator-card { flex: 1 1 280px; max-width: calc(25% - 21px); }
+@media (max-width: 1100px) { .roster-grid .creator-card { max-width: calc(50% - 14px); } }
+@media (max-width: 640px) { .roster-grid .creator-card { max-width: none; } }

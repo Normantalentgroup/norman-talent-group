@@ -1,0 +1,141 @@
+{
+  "updated": "2026-11-03",
+  "creators": [
+    {
+      "name": "Peak Tyler",
+      "handle": "@peaktylerr",
+      "niche": "Nature and landscape adventure content, built for virality across the Rockies and beyond.",
+      "platforms": {
+        "instagram": {
+          "url": "https://www.instagram.com/peaktylerr/",
+          "followers": 462025
+        },
+        "tiktok": {
+          "url": "https://www.tiktok.com/@peaktyler",
+          "followers": 359200
+        }
+      },
+      "photo": "images/creators/peak-tyler.jpg",
+      "mediaKit": null
+    },
+    {
+      "name": "Charlie Stringer",
+      "handle": "@charliestringr",
+      "niche": "Hiking and personal-transformation content, building an outdoor life from the ground up.",
+      "platforms": {
+        "instagram": {
+          "url": "https://www.instagram.com/charliestringr/",
+          "followers": 398399
+        },
+        "tiktok": {
+          "url": "https://www.tiktok.com/@charliestringr",
+          "followers": 239700
+        }
+      },
+      "photo": "images/creators/charlie-stringer.png",
+      "mediaKit": "https://charlie.normantalentgroup.com"
+    },
+    {
+      "name": "Seth Fixsen",
+      "handle": "@boarders.in.the.back",
+      "niche": "Snowboarding and powder-day content for riders who live for deep snow.",
+      "platforms": {
+        "instagram": {
+          "url": "https://www.instagram.com/boarders.in.the.back/",
+          "followers": 293222
+        },
+        "tiktok": {
+          "url": "https://www.tiktok.com/@boarders.in.the.back",
+          "followers": 296000
+        }
+      },
+      "photo": "images/creators/seth-fixsen.jpg",
+      "mediaKit": null
+    },
+    {
+      "name": "Billy Venezia",
+      "handle": "@bigbatbilly",
+      "niche": "Long-form hikes and camping, on a mission to summit the highest point in all 50 states.",
+      "platforms": {
+        "instagram": {
+          "url": "https://www.instagram.com/bigbatbilly/",
+          "followers": 227308
+        },
+        "tiktok": {
+          "url": "https://www.tiktok.com/@bigbatbilly",
+          "followers": 223300
+        }
+      },
+      "photo": "images/creators/billy-venezia.jpg",
+      "mediaKit": null
+    },
+    {
+      "name": "Kyle Papineau",
+      "handle": "@kyle__papineau",
+      "niche": "Builder and adventurer on Vancouver Island, from driftwood beach forts to climbing and travel.",
+      "platforms": {
+        "instagram": {
+          "url": "https://www.instagram.com/kyle__papineau/",
+          "followers": 310043
+        },
+        "tiktok": {
+          "url": "https://www.tiktok.com/@kylepapineau",
+          "followers": 81100
+        }
+      },
+      "photo": "images/creators/kyle-papineau.jpg",
+      "mediaKit": null
+    },
+    {
+      "name": "Sawyer Shawd",
+      "handle": "@sawyershawd",
+      "niche": "Mountaineering, climbing and fitness content, training for Ama Dablam in 2027.",
+      "platforms": {
+        "instagram": {
+          "url": "https://www.instagram.com/sawyershawd/",
+          "followers": 193092
+        },
+        "tiktok": {
+          "url": "https://www.tiktok.com/@sawyer.shawd",
+          "followers": 28600
+        }
+      },
+      "photo": "images/creators/sawyer-shawd.jpg",
+      "mediaKit": null
+    },
+    {
+      "name": "Kristian",
+      "handle": "@lifebykristian",
+      "niche": "Travel, lifestyle and outdoors content from a young Canadian chasing a life worth living.",
+      "platforms": {
+        "instagram": {
+          "url": "https://www.instagram.com/lifebykristian/",
+          "followers": 110059
+        },
+        "tiktok": {
+          "url": "https://www.tiktok.com/@lifebykristian",
+          "followers": 63100
+        }
+      },
+      "photo": "images/creators/kristian.jpg",
+      "mediaKit": null
+    },
+    {
+      "name": "Landen",
+      "handle": "@stripping.streamers",
+      "niche": "Fishing and outdoor storytelling from Idaho, chasing big fish and big dreams.",
+      "platforms": {
+        "instagram": {
+          "url": "https://www.instagram.com/stripping.streamers/",
+          "followers": 49820
+        },
+        "tiktok": {
+          "url": "https://www.tiktok.com/@stripping.streamers",
+          "followers": 24800
+        }
+      },
+      "photo": "images/creators/landen-rindlisbacher.jpg",
+      "mediaKit": null
+    }
+  ]
+}
